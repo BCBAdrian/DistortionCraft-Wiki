@@ -36,10 +36,11 @@ export default defineUserConfig({
         logo: 'images/hero.png',
         navbar: [
             {
-                text: 'Руководство',
+                text: 'Вики',
                 children: [
                     '/general/README.md',
                     '/clans/README.md',
+                    '/mcmmo/README.md',
                 ],
             },
             {
@@ -59,6 +60,7 @@ export default defineUserConfig({
                     children: [
                         '/general/README.md',
                         '/clans/README.md',
+                        '/mcmmo/README.md',
                     ],
                 },
             ],
