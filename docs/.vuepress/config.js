@@ -54,7 +54,7 @@ export default defineUserConfig({
         sidebar: {
             '/': [
                 {
-                    text: 'Руководство',
+                    text: 'Вики',
                     collapsible: false,
                     children: [
                         '/general/README.md',
