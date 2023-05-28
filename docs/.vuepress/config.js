@@ -11,8 +11,8 @@ export default defineUserConfig({
     description: 'Distortion Craft Wiki',
     port: '8080', //Порт на котором запускается VuePress
     theme: defaultTheme({
-        repo: 'BCBAdrian/Distortion-Craft-Wiki',
-        docsRepo: 'https://github.com/BCBAdrian/Distortion-Craft-Wiki',
+        repo: 'BCBAdrian/DistortionCraft-Wiki',
+        docsRepo: 'https://github.com/BCBAdrian/DistortionCraft-Wiki',
         docsBranch: 'main',
         docsDir: 'docs',
         editLinkPattern: ':repo/edit/:branch/:path',
