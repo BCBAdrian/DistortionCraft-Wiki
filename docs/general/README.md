@@ -132,13 +132,9 @@
 
 ## Информация о сервере :computer:
 
-### IP
+IP: ```mc.distortioncraft.ru```
 
-```mc.distortioncraft.ru```
-
-### Поддерживаемые версии игры
-
-```Minecraft 1.19.3```
+Поддерживаемые версии игры: ```Minecraft 1.19.3```
 
 ### Администрация проекта :warning:
 
@@ -154,16 +150,14 @@
 
 ## Полезные ссылки :link:
 
-### Веб карта
+Веб карта: [Ссылка](http://mc.distortioncraft.ru:8123)
 
-```http://mc.distortioncraft.ru:8123```
-
-### Discord
-
-```*ССЫЛКА*```
+Discord [Ссылка](https://discord.gg/QPRhmXMZp4)
 
 ## Модификации, разрешенные на проекте :cd:
 
-### Simple Voice Chat
+Simple Voice Chat: [Ссылка](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) 
 
-Ссылка: [Ссылка](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/download/4540797) 
+EmoteCraft: [Ссылка](https://www.curseforge.com/minecraft/mc-mods/emotecraft/files) 
+
+
