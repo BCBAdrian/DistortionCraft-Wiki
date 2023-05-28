@@ -1,0 +1,17 @@
+{
+  "name": "GravitLauncherWiki",
+  "version": "1.0.0",
+  "description": "enchald development (by XJIuPa)",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "XJIuPa",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.50"
+  },
+  "dependencies": {
+  }
+}
