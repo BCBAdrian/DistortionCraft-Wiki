@@ -43,6 +43,12 @@ export default defineUserConfig({
                     '/mcmmo/README.md',
                 ],
             },
+			{
+                text: 'Обновления',
+                children: [
+                    '/updates/README.md',
+                ],
+            },
             {
                 text: 'Веб карта',
                 link: 'http://mc.distortioncraft.ru:8123/#world;surface;76,64,70;0',
@@ -56,7 +62,7 @@ export default defineUserConfig({
             '/': [
                 {
                     text: 'Вики',
-                    collapsible: false,
+                    collapsible: true,
                     children: [
                         '/general/README.md',
                         '/clans/README.md',
@@ -64,12 +70,10 @@ export default defineUserConfig({
                     ],
                 },
 				{
-                    text: 'TESTING',
-                    collapsible: false,
+                    text: 'История обновлений',
+                    collapsible: true,
                     children: [
-                        '/general/README.md',
-                        '/clans/README.md',
-                        '/mcmmo/README.md',
+                        '/updates/README.md',
                     ],
                 },
             ],
