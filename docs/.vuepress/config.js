@@ -63,6 +63,15 @@ export default defineUserConfig({
                         '/mcmmo/README.md',
                     ],
                 },
+				{
+                    text: 'TESTING',
+                    collapsible: false,
+                    children: [
+                        '/general/README.md',
+                        '/clans/README.md',
+                        '/mcmmo/README.md',
+                    ],
+                },
             ],
         },
     }),
